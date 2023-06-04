@@ -22,7 +22,7 @@
       "status_app": true,
       "link_redirect": "https://facebook.com",
       "base_url":"https://auladi.my.id/caricudev/southparkcoloring/api/",
-      "upload_url":https://auladi.my.id/caricudev/southparkcoloring/uploads/",
+      "upload_url":"https://auladi.my.id/caricudev/southparkcoloring/uploads/",
 	  "more_app":"https://play.google.com/store/apps/developer?id=caricudev"
 	 
     }
